@@ -1,0 +1,11 @@
+age,weight,height,bmi,body_temperature,heart_rate,gender,bmi_duration,activity_level,target
+25,70,175,22.9,36.5,70,Male,30,Sedentary,2000
+30,80,180,24.7,36.7,75,Female,45,Light,2200
+35,90,165,33.1,37.0,80,Male,60,Moderate,2500
+40,60,170,20.8,36.8,65,Female,15,Active,1800
+28,75,160,29.3,36.6,72,Male,20,Sedentary,2100
+33,85,175,27.8,36.9,78,Female,25,Light,2300
+38,95,180,29.4,37.1,82,Male,35,Moderate,2400
+45,70,165,25.7,36.4,68,Female,50,Active,2000
+50,80,170,27.7,36.5,74,Male,40,Sedentary,2200
+55,90,175,29.4,37.0,76,Female,55,Light,2300
