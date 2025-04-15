@@ -1,5 +1,5 @@
 ﻿# Self Health Tracker
-![Meme Bot Example](.github/assets/disBOT.png)
+![Meme Bot Example](fitnesstracker.png)
 
 ## Description
 The Self Health Tracker is a web application built using Streamlit that allows users to input various health-related metrics and provides predictions on kilocalories burned along with exercise recommendations. The application utilizes machine learning models to analyze user data and offer personalized insights.
